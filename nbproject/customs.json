@@ -1,0 +1,10 @@
+{
+    "elements": {
+        "button": {}
+    },
+    "attributes": {
+        "size": {
+            "context": "input"
+        }
+    }
+}
